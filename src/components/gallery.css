@@ -1,0 +1,24 @@
+.searchbar{
+    margin: 10px 0px;
+}
+
+
+
+.main-title h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.item1{
+height:250px;
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+button{
+    width:200px
+}
